@@ -1,0 +1,6 @@
+{
+  "name": "Noor - All In One",
+  "description": "Complete Islamic app by Thakurdwara with Namaz Times, 114 Surahs Quran, Duas, Qibla Compass, Tasbeeh, Hadith, Islamic Calendar, 99 Names, Zakat Calculator, Wallpapers, Naat & Kids Section.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
